@@ -34,7 +34,7 @@ This assignment should prove that a student is able to:
   - [x] Use `npm run browser-install` to install the browser environment for testing (~131mb will be downloaded)
   - [ ] (Windows users only) Use `npm run deps-install` to install playwright additional dependencies (160mb will be downloaded)
 - [ ] All the tasks of the "Specific requirements" section MUST be solved
-- [ ] **The project's file/folder structure should NOT be edited!**
+- [x] **The project's file/folder structure should NOT be edited!**
 - [ ] All the tests MUST pass. Fix any errors before you submit (acceptance criteria).
   - [ ] Use `npm run test` to run all tests in the terminal
   - [ ] (Optional) Use `npm run test-ui` to run all the tests with GUI
@@ -49,6 +49,6 @@ This assignment should prove that a student is able to:
 
 For the styles.css file:
 
-- [ ] Find and fix all the syntax issues in the file
+- [x] Find and fix all the syntax issues in the file
   - There are commented out hints for you to find the CSS rules with incorrect syntax
   - When running tests, the failed test message contains the CSS file line number of the rule that was tested.
